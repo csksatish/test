@@ -1,5 +1,5 @@
-a=10
-b=20
-c=a+b
+a=15
+b=30
+c=a*b
 print(c)
 
